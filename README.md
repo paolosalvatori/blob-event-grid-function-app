@@ -4,7 +4,7 @@ platforms: dotnet-core, aspnet-core
 author: paolosalvatori
 ---
 
-## Introduction
+## Consume Blob Event Grid events with an Azure Function
 This sample demonstrates how to create a serverless application to receive and process events via an Azure Event Grid Subscription any time a blob is created, updated or deleted in a given container inside an [Azure storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview).
 
 ## What is Azure Event Grid?
